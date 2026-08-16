@@ -1,0 +1,6 @@
+{
+  "name": "Nubpack Signup Flow",
+  "description": "Production-ready, responsive signup wizard and verification flow replicating Nubpack with real-time validation, OTP simulation, and step persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
