@@ -194,7 +194,7 @@ export const POPULAR_COLLEGES_BY_STATE: Record<string, string[]> = {
 "English and Foreign Languages University — Hyderabad",
 "Indian Institute of Technology Hyderabad (IIT Hyderabad) — Sangareddy",
 "National Institute of Technology Warangal (NIT Warangal) — Warangal",
-"ICFAI Foundation for Higher Education — Hyderabad
+"ICFAI Foundation for Higher Education — Hyderabad",
 "Woxsen University — Hyderabad",
 "Mahindra University — Hyderabad",
 "Anurag University — Hyderabad",
