@@ -699,14 +699,14 @@ export const POPULAR_COLLEGES_BY_STATE: Record<string, string[]> = {
 "Chandra Shekhar Azad University of Agriculture and Technology — Kanpur",
 "Sardar Vallabhbhai Patel University of Agriculture and Technology — Meerut",
 "Acharya Narendra Deva University of Agriculture and Technology — Ayodhya",
-"Narendra Deva University? — Ayodhya",
+"Narendra Deva University— Ayodhya",
 "Banda University of Agriculture and Technology — Banda",
-"Uttar Pradesh University of Veterinary Science? — Mathura"
-"Indian Institute of Technology Kanpur (IIT Kanpur)",
-"Indian Institute of Technology Banaras Hindu University (IIT BHU)",
-"Indian Institute of Management Lucknow (IIM Lucknow)",
-"Motilal Nehru National Institute of Technology Allahabad (MNNIT Allahabad)",
-"Indian Institute of Information Technology Allahabad (IIIT Allahabad)",
+"Uttar Pradesh University of Veterinary Science — Mathura",
+"Indian Institute of Technology Kanpur ",
+"Indian Institute of Technology Banaras Hindu University",
+"Indian Institute of Management Lucknow ",
+"Motilal Nehru National Institute of Technology Allahabad ",
+"Indian Institute of Information Technology Allahabad",
 "Amity University Uttar Pradesh",
 "Sharda University",
 "Galgotias University",
@@ -724,7 +724,7 @@ export const POPULAR_COLLEGES_BY_STATE: Record<string, string[]> = {
 "KIET Group of Institutions",
 "Shri Ramswaroop Memorial University",
 "GL Bajaj Institute of Technology and Management"
- ]
+]
 };
 
 export const DEGREES_LIST = [
