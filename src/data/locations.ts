@@ -149,7 +149,7 @@ export const STATE_CITIES_DATA: StateCitiesMap = {
 "Ramanathapuram",
 "Ranipet",
 "Salem",
-"S"ivaganga",
+"Sivaganga",
 "Tenkasi",
 "Thanjavur",
 "Theni",
@@ -254,7 +254,7 @@ export const STATE_CITIES_DATA: StateCitiesMap = {
 "South 24 Parganas",
 "Uttar Dinajpur",
 "Siliguri"
-  ],
+ ],
   "Uttar Pradesh": [
 "Agra",
 "Aligarh",
@@ -296,7 +296,7 @@ export const STATE_CITIES_DATA: StateCitiesMap = {
 "Jalaun",
 "Jaunpur",
 "Jhansi",
-"Kannauj
+"Kannauj",
 "Kanpur Dehat",
 "Kanpur Nagar",
 "Kasganj",
